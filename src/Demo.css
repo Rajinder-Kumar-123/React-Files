@@ -1,0 +1,33 @@
+.reactproject, img{
+    height: 250px;
+    width: 260px;
+    
+}
+.mainpage{
+    width: 90%;
+    height: 100vh;
+    margin: auto;
+
+}
+.mainpage{
+    margin: 0;
+    padding: 20 0;
+    text-align: center;
+}
+.Menu{
+    background-color: black;
+    height: 40px;
+    width:50%;
+    cursor: pointer;
+    text-align: center;
+    margin: 0px auto;
+    border-bottom: 1px solid grey;
+}
+.Menu NavLink{
+    text-align: center;
+}
+.Menu:hover{
+    background:red;
+    color: white;
+}
+
